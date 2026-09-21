@@ -1,6 +1,6 @@
 ## Olá eu sou Marcelo Kodac, CEO & Desenvolvedor da HospedaSites
-  <a href="https://github.com/kcdac">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcdac&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/mardelokodac">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelokcdac&layout=compact&langs_count=7&theme=dracula"/>
  
   
 <div style="display: inline_block"><br>
@@ -24,6 +24,6 @@
   <a href = "mailto:marcelo@hospedasites.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/devMarceloLacerda/devMarceloLacerda/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/marcelokodac/marcelokodac/blob/main/github-contribution-grid-snake.svg)
  
 </div>
